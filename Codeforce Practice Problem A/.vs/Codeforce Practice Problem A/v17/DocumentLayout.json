@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gavin\\source\\repos\\CodeForce\\Codeforce Practice Problem A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449C67CE-C4BE-4326-93E0-7B82AC1D6EEC}|Codeforce Practice Problem A\\Codeforce Practice Problem A.vcxproj|C:\\Users\\gavin\\source\\repos\\CodeForce\\Codeforce Practice Problem A\\Codeforce Practice Problem A\\Codeforce Practice Problem A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{449C67CE-C4BE-4326-93E0-7B82AC1D6EEC}|Codeforce Practice Problem A\\Codeforce Practice Problem A.vcxproj|solutionrelative:Codeforce Practice Problem A\\Codeforce Practice Problem A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Codeforce Practice Problem A.cpp",
+              "DocumentMoniker": "C:\\Users\\gavin\\source\\repos\\CodeForce\\Codeforce Practice Problem A\\Codeforce Practice Problem A\\Codeforce Practice Problem A.cpp",
+              "RelativeDocumentMoniker": "Codeforce Practice Problem A\\Codeforce Practice Problem A.cpp",
+              "ToolTip": "C:\\Users\\gavin\\source\\repos\\CodeForce\\Codeforce Practice Problem A\\Codeforce Practice Problem A\\Codeforce Practice Problem A.cpp",
+              "RelativeToolTip": "Codeforce Practice Problem A\\Codeforce Practice Problem A.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T20:57:37.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
